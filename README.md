@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali İĞAN</h1>
+<h1 align="center">Hi 👋, I'm Ahmet Ali İĞAN</h1>
 <h3 align="center">A passionate Java developer from Turkiye</h3>
 
 <h3 align="left">Connect with me:</h3>
